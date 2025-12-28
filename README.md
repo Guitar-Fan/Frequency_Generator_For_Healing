@@ -9,7 +9,7 @@ I made this project because I love music and sound, and wanted to make a project
 
 
 ### 3D Model
-![3D Enclosure Model](Enclosure.png)
+![3D Enclosure Model](image.png)
 *Custom-designed 3D-printed enclosure for the frequency generator*
 
 ### PCB Design
