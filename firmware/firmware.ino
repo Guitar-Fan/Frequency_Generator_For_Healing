@@ -1,5 +1,5 @@
 /*
- * Teensy 4.1 High-Precision Frequency Generator
+ * Teensy 4.0 High-Precision Frequency Generator
  * * Hardware:
  * - ILI9341 2.4" TFT (SPI)
  * - 2x Rotary Encoders
